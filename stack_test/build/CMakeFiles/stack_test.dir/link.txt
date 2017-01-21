@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/stack_test.dir/src/mystack.cpp.o  -o ../bin/stack_test -rdynamic 
